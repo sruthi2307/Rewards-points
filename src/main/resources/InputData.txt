@@ -1,0 +1,10 @@
+customer1 123 2018-12-11
+customer1 222 2018-11-21
+customer1 123 2018-10-01
+customer2 332 2018-12-30
+customer2 524 2018-11-03
+customer3 123 2018-12-11
+customer4 54 2018-12-31
+customer5 32 2018-12-11
+customer3 322 2018-10-11
+customer2 424 2018-11-21
